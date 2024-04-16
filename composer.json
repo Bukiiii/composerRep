@@ -1,5 +1,5 @@
 {
-    "name": "dhtpublic/dht_gin_custom",
+    "name": "buki/dht_gin_custom",
     "type": "drupal-module",
     "description": "DHT Gin Custom Styles",
     "keywords": ["drupal","gin"],
